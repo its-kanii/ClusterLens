@@ -60,7 +60,7 @@ pip install -r requirements.txt
 3. Run the Streamlit app:
 
 ```bash
-streamlit run ui.py
+streamlit run app.py
 ```
 
 4. Visit the app in your browser at `http://localhost:8501`
