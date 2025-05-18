@@ -110,4 +110,4 @@ This project was built as part of my Data Science learning journey. Special than
 
 ## 📫 Let's Connect
 
-If you like this project or want to collaborate on other Data Science visual tools, feel free to connect with me on [LinkedIn](https://www.linkedin.com/kanimozhi-kathirvel) or drop a ⭐ on the repo!
+If you like this project or want to collaborate on other Data Science visual tools, feel free to connect with me on [LinkedIn](https://www.linkedin.com/kanimozhi-kathirvel/) or drop a ⭐ on the repo!
